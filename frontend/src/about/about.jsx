@@ -5,7 +5,7 @@ export default props  => (
     <div>
         <PageHeader name="Sobre" samll="Nós"></PageHeader>        
 
-         <h2>Nossa História</h2>
+        <h2>Nossa História</h2>
         <p>Lorem ipsum dolor sit amet...</p>
         <h2>Missão e Visão</h2>
         <p>Lorem ipsum dolor sit amet...</p>
